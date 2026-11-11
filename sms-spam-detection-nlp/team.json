@@ -1,0 +1,17 @@
+{
+  "team_name": "TEAM NAME HERE",
+  "course": "Introduction to NLP",
+  "repo_url": "https://github.com/YOUR-USERNAME/sms-spam-detection-nlp",
+  "tag": "assignment-1",
+  "commit_hash": "PASTE the output of: git rev-parse --short assignment-1",
+  "topic_approved_by": "Instructor name, date",
+  "fresh_clone_verified_by": "Member name, date",
+  "members": [
+    {"name": "Member 1 full name", "roll_no": "ROLL-001",
+     "contribution": "Wrote what? e.g. data loader, README, environment setup, report sections 1-2."},
+    {"name": "Member 2 full name", "roll_no": "ROLL-002",
+     "contribution": "e.g. exploration notebook and statistics, Zipf analysis, report section 3."},
+    {"name": "Member 3 full name", "roll_no": "ROLL-003",
+     "contribution": "e.g. tokenizer comparison and regular expressions, report section 4."}
+  ]
+}
